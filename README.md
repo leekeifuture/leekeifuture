@@ -1,1 +1,1 @@
-[![Vladislav Brezovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekeifuture&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Vladislav Brezovsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekeifuture&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
